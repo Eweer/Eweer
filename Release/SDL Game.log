@@ -1,0 +1,44 @@
+﻿Build started 26/04/2016 14:27:34.
+     1>Project "C:\Users\oriolrv3\Documents\GitHub\Project-1-Team-SUMHC-Pro-Name\SDL Game.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(381,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (OutZone v0.4.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D _MBCS /Gm- /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ModuleUI.cpp
+         ModuleUI.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\oriolrv3\Documents\GitHub\Project-1-Team-SUMHC-Pro-Name\Release\OutZone v0.5.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\oriolrv3\Documents\GitHub\Project-1-Team-SUMHC-Pro-Name\Release\OutZone v0.5.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\oriolrv3\Documents\GitHub\Project-1-Team-SUMHC-Pro-Name\Release\OutZone v0.5.lib" /MACHINE:X86 /SAFESEH Release\Application.obj
+         Release\Enemy.obj
+         Release\EnemyBigTurret.obj
+         Release\EnemyGreenBasic.obj
+         Release\EnemySmallTurret.obj
+         Release\EnemyTruck.obj
+         Release\Globals.obj
+         Release\Main.obj
+         Release\ModuleAudio.obj
+         Release\ModuleBomb.obj
+         Release\ModuleCollision.obj
+         Release\ModuleContinue.obj
+         Release\ModuleEnemies.obj
+         Release\ModuleFadeToBlack.obj
+         Release\ModuleInput.obj
+         Release\ModuleLevelsTop.obj
+         Release\ModuleLoseScreen.obj
+         Release\ModuleNameScreen.obj
+         Release\ModuleParticles.obj
+         Release\ModulePlayer.obj
+         Release\ModuleRender.obj
+         Release\ModuleSceneLevels.obj
+         Release\ModuleSceneTitle.obj
+         Release\ModuleScoreScreen.obj
+         Release\ModuleTextures.obj
+         Release\ModuleUI.obj
+         Release\ModuleWindow.obj
+         Release\ModuleWinScreen.obj
+         Generating code
+     1>c:\users\oriolrv3\documents\github\project-1-team-sumhc-pro-name\moduleplayer.cpp(1074): warning C4715: 'ModulePlayer::GetDmg' : not all control paths return a value
+         Finished generating code
+         SDL Game.vcxproj -> C:\Users\oriolrv3\Documents\GitHub\Project-1-Team-SUMHC-Pro-Name\Release\OutZone v0.5.exe
+     1>Done Building Project "C:\Users\oriolrv3\Documents\GitHub\Project-1-Team-SUMHC-Pro-Name\SDL Game.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.96

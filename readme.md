@@ -1,3 +1,15 @@
-## 18/02/2016
+# Project 1: Team SuperUltraHyperMegaCool Pro Name
 
-Creation of the source file + repository of GitHub's Eweer Account
+## Game: Out Zone
+
+
+## Members
+
+Sergi Perez
+
+Adria Martín
+
+Oriol Rodriguez
+
+Iban Mas
+
